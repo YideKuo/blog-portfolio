@@ -6,3 +6,5 @@
 I am a student in Interactive Media Design.
 
 ![Yi-De, Kuo](images/linkedin.jpg)
+
+G da GG da
